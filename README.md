@@ -34,3 +34,14 @@ To apply SQL skills to real-world business questions and generate meaningful ins
 
 ## Author
 Monish R
+
+## SQL Analysis Screenshots
+
+### 1. Final Completed Sales Performance Summary
+![Completed Sales Summary](completed-sales-summary.png)
+
+### 2. Order Value Analysis by Region
+![Regional Order Value Analysis](regional-sales-order-value-analysis.png)
+
+### 3. Category-wise Estimated Gross Profit and Margin
+![Category Profit and Margin](category-profit-margin.png)
